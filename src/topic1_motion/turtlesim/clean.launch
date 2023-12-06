@@ -1,0 +1,4 @@
+<launch>
+<node name="turtlesim" pkg="turtlesim" type="turtlesim_node"/>
+<node name="Turtlesim_motion_Reemoo" pkg="reem_pkg" type="turtlesim_cleaner.py"/>
+</launch>
